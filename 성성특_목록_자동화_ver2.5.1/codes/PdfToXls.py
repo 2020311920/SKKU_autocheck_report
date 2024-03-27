@@ -23,6 +23,7 @@ def extract_text_from_pdf(pdf_path, start_page=None, end_page=None):
             #print(page_text)
             #count+=1
             text += page_text
+            #this is for test
     
     #print(text)
     sample=""
