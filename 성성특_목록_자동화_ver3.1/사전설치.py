@@ -2,6 +2,7 @@ import subprocess
 import sys
 
 # List of packages to be installed
+# 의미 없는 수정입니다.
 packages = [
     "altgraph==0.17.4",
     "Cython==3.0.10",
